@@ -2,10 +2,12 @@
 
 Github profile repository.
 
-Social media:
+Find me on:
 
 ![TwitterLogo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
 [![Twitter](https://img.shields.io/twitter/follow/urbanek_nicolas?style=social)](https://twitter.com/urbanek_nicolas/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-urbanek-89a95b216/)
 
 ## Skills
 
