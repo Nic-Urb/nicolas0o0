@@ -5,7 +5,7 @@ Github profile repository.
 Find me on:
 
 ![TwitterLogo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
-[![Twitter](https://img.shields.io/twitter/follow/urbanek_nicolas?style=social)](https://twitter.com/urbanek_nicolas/)
+[![Twitter](https://img.shields.io/twitter/follow/_nick_urb?style=social)](https://twitter.com/_nick_urb/)
 
 
 ## Skills
